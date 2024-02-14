@@ -1,1 +1,3 @@
 ASSIGNMENT-2=https://github.com/gurramsainikhil/2203a51481/blob/main/2203A51481(sai%20nikhil).pdf
+ASSIGNMENT-1-(TASK-1)=https://github.com/gurramsainikhil/2203a51481/blob/main/2203A51481_ass2%20(1).ipynb
+(TASK-2)=
