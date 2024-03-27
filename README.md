@@ -11,3 +11,5 @@ ASSIGNMENT-4=https://github.com/gurramsainikhil/2203a51481/blob/main/2203a51481-
 ASSIGNMENT-3=https://github.com/gurramsainikhil/2203a51481/blob/main/2203A51481_A3.pdf
 
 ASSIGNMENT-5=https://github.com/gurramsainikhil/2203a51481/blob/main/2203a51481_ass5-aiml.pdf
+
+ASSIGNMENT-6=https://github.com/gurramsainikhil/2203a51481/blob/main/2203A51481-ASS-6.pdf
